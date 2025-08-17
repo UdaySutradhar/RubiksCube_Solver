@@ -4,7 +4,7 @@ import React from "react";
 import Start from "./components/start_page"
 import FaceSet from "./components/face_set"
 import Position from "./components/positioning";
-import Solver from "./components/solver/";
+import Solver from "./components/solver";
 import { useEffect } from "react";
 
 function App() {
